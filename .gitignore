@@ -3,3 +3,6 @@ examples/
 log/
 VerismartOLD/
 cbmc-SM
+.idea
+.vscode
+venv
